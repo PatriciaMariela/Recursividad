@@ -6,7 +6,7 @@ package recursividad;
  *
  */
 
-
+//Comentarios simples para probar comando en git
 public class Factorial {
 	public int factorial(int n) {
 		if (n == 0) {//caso base
