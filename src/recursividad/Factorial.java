@@ -15,4 +15,10 @@ public class Factorial {
 			return n * factorial(n - 1);//caso recursivo
 		}
 	}
+
+	@Override
+	public String toString() {
+		return "Factorial []";
+	}
+	
 }
