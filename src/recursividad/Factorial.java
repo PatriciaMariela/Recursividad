@@ -1,5 +1,12 @@
 package recursividad;
 
+/**
+ *
+ * @author Pa
+ *
+ */
+
+
 public class Factorial {
 	public int factorial(int n) {
 		if (n == 0) {//caso base
